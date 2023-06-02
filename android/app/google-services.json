@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "996507228247",
+    "project_id": "passionpals-bc445",
+    "storage_bucket": "passionpals-bc445.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996507228247:android:6f6da367c2eae0e8af2b12",
+        "android_client_info": {
+          "package_name": "com.example.passionpals"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmJQoZ15irQfREeB97QTdWp3ixLG4xowM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
